@@ -1,0 +1,407 @@
+[
+    {
+        "id": 1,
+        "image": "../images/g1.png",
+        "title": "Gwava",
+        "start_production": 1989,
+        "price": 50,
+        "class": "Sports car Roadster",
+        "description": "Guava helps boost your immunity, May reduce the risk of developing Cancer Helps to manage blood sugar levels , Gwava can improve digestive function."
+    },
+    {
+        "id": 2,
+        "image": "../images/m1.png",
+        "title": "Mango",
+        "start_production": 2002,
+        "price": 40,
+        "class": "Mid-size luxury crossover SUV",
+        "description": "Packed with nutrients, May help prevent diabetes, High in healthy plant compounds,Contains immune-boosting nutrients, Mango can improve digestive health"
+    },
+    {
+        "id": 3,
+        "image": "../images/p1.png",
+        "title": "Papaya",
+        "start_production": 1975,
+        "price": 60,
+        "class": "Supermini",
+        "description": "Papaya has a strong antioxidant effect, It's high in carotenoids, which can reduce inflammatory markers,  Papaya has anti-cancer properties,  Papaya can improve digestive function."
+    },
+    {
+        "id": 4,
+        "image": "../images/b1.png",
+        "title": "Banana",
+        "start_production": 1955,
+        "price": 55,
+        "class": "Full-size Ford",
+        "description": "Bananas are respectable sources of vitamin C. , Manganese in bananas is good for your skin. Potassium in bananas is good for your heart health and blood pressure, aid digestion and help beat gastrointestinal issues."
+    },
+    {
+        "id": 5,
+        "image": "../images/ly1.png",
+        "title": "Lychee",
+        "start_production": 1970,
+        "price": 80,
+        "class": "Muscle car(today) and Race car(Past)",
+        "description": "Lychees are a rich source of numerous antioxidant-plant compounds, which help protect against oxidative stress, chronic diseases, cataract, diabetes, heart diseases, and cancers. Copper present that promotes hair growth."
+    },
+    {
+        "id": 6,
+        "image": "../images/pom1.png",
+        "title": "Pomegranate",
+        "start_production": 1994,
+        "price": 90,
+        "class": "Compact",
+        "description": "They are rich in antioxidants. They are a good source of fiber. They provide vitamin C. They may help to improve workouts. They may help with inflammation.  They provide potassium. They may help improve kidney health."
+    },
+    {
+        "id": 7,
+        "image": "../images/a1.png",
+        "title": "Apple",
+        "price": 80,
+        "start_production": 2002,
+        "class": "Mid-size luxury crossover SUV",
+        "description": "May lower cholesterol. Apples contain pectin, a natural fibre found in plants. May protect against diabetes. Apples are low on the glycaemic index (GI) thanks to their fibre content. May prevent obesity. May protect against heart disease."
+    },
+    {
+        "id": 8,
+        "image": "../images/gr1.png",
+        "title": "Grapes",
+        "price": 75,
+        "start_production": 1975,
+        "class": "Supermini",
+        "description": "Helps your immune system. Prevents cancer. Lowers blood pressure. Protects against heart disease.  Reduces high cholesterol. Protects against diabetes. Helps maintain brain health. ..."
+    },
+    {
+        "id": 9,
+        "image": "../images/m2.png",
+        "title": "Mango",
+        "start_production": 2002,
+        "price": 40,
+        "class": "Mid-size luxury crossover SUV",
+        "description": "Packed with nutrients, May help prevent diabetes, High in healthy plant compounds,Contains immune-boosting nutrients, Mango can improve digestive health"
+    },
+    {
+        "id": 10,
+        "image": "../images/p2.png",
+        "title": "Papaya",
+        "start_production": 1975,
+        "price": 60,
+        "class": "Supermini",
+        "description": "Papaya has a strong antioxidant effect, It's high in carotenoids, which can reduce inflammatory markers,  Papaya has anti-cancer properties,  Papaya can improve digestive function."
+    },
+    {
+        "id": 11,
+        "image": "../images/g2.png",
+        "title": "Gwava",
+        "start_production": 1989,
+        "price": 50,
+        "class": "Sports car Roadster",
+        "description": "Guava helps boost your immunity, May reduce the risk of developing Cancer Helps to manage blood sugar levels , Gwava can improve digestive function."
+    },
+    {
+        "id": 12,
+        "image": "../images/b2.png",
+        "title": "Banana",
+        "start_production": 1955,
+        "price": 55,
+        "class": "Full-size Ford",
+        "description": "Bananas are respectable sources of vitamin C. , Manganese in bananas is good for your skin. Potassium in bananas is good for your heart health and blood pressure, aid digestion and help beat gastrointestinal issues."
+    },
+    {
+        "id": 13,
+        "image": "../images/pom2.png",
+        "title": "Pomegranate",
+        "start_production": 1994,
+        "price": 90,
+        "class": "Compact",
+        "description": "They are rich in antioxidants. They are a good source of fiber. They provide vitamin C. They may help to improve workouts. They may help with inflammation.  They provide potassium. They may help improve kidney health."
+    },
+    {
+        "id": 14,
+        "image": "../images/ly2.png",
+        "title": "Lychee",
+        "start_production": 1970,
+        "price": 80,
+        "class": "Muscle car(today) and Race car(Past)",
+        "description": "Lychees are a rich source of numerous antioxidant-plant compounds, which help protect against oxidative stress, chronic diseases, cataract, diabetes, heart diseases, and cancers. Copper present that promotes hair growth."
+    },
+    {
+        "id": 15,
+        "image": "../images/a2.png",
+        "title": "Apple",
+        "price": 80,
+        "start_production": 2002,
+        "class": "Mid-size luxury crossover SUV",
+        "description": "May lower cholesterol. Apples contain pectin, a natural fibre found in plants. May protect against diabetes. Apples are low on the glycaemic index (GI) thanks to their fibre content. May prevent obesity. May protect against heart disease."
+    },
+    {
+        "id": 16,
+        "image": "../images/gr2.png",
+        "title": "Grapes",
+        "price": 75,
+        "start_production": 1975,
+        "class": "Supermini",
+        "description": "Helps your immune system. Prevents cancer. Lowers blood pressure. Protects against heart disease.  Reduces high cholesterol. Protects against diabetes. Helps maintain brain health. ..."
+    },
+    {
+        "id": 17,
+        "image": "../images/m3.png",
+        "title": "Mango",
+        "start_production": 2002,
+        "price": 40,
+        "class": "Mid-size luxury crossover SUV",
+        "description": "Packed with nutrients, May help prevent diabetes, High in healthy plant compounds,Contains immune-boosting nutrients, Mango can improve digestive health"
+    },
+    {
+        "id": 18,
+        "image": "../images/g3.png",
+        "title": "Gwava",
+        "start_production": 1989,
+        "price": 50,
+        "class": "Sports car Roadster",
+        "description": "Guava helps boost your immunity, May reduce the risk of developing Cancer Helps to manage blood sugar levels , Gwava can improve digestive function."
+    },
+    {
+        "id": 19,
+        "image": "../images/p3.png",
+        "title": "Papaya",
+        "start_production": 1975,
+        "price": 60,
+        "class": "Supermini",
+        "description": "Papaya has a strong antioxidant effect, It's high in carotenoids, which can reduce inflammatory markers,  Papaya has anti-cancer properties,  Papaya can improve digestive function."
+    },
+    {
+        "id": 20,
+        "image": "../images/ly3.png",
+        "title": "Lychee",
+        "start_production": 1970,
+        "price": 80,
+        "class": "Muscle car(today) and Race car(Past)",
+        "description": "Lychees are a rich source of numerous antioxidant-plant compounds, which help protect against oxidative stress, chronic diseases, cataract, diabetes, heart diseases, and cancers. Copper present that promotes hair growth."
+    },
+    {
+        "id": 21,
+        "image": "../images/b3.png",
+        "title": "Banana",
+        "start_production": 1955,
+        "price": 55,
+        "class": "Full-size Ford",
+        "description": "Bananas are respectable sources of vitamin C. , Manganese in bananas is good for your skin. Potassium in bananas is good for your heart health and blood pressure, aid digestion and help beat gastrointestinal issues."
+    },
+    {
+        "id": 22,
+        "image": "../images/pom3.png",
+        "title": "Pomegranate",
+        "start_production": 1994,
+        "price": 90,
+        "class": "Compact",
+        "description": "They are rich in antioxidants. They are a good source of fiber. They provide vitamin C. They may help to improve workouts. They may help with inflammation.  They provide potassium. They may help improve kidney health."
+    },
+    {
+        "id": 23,
+        "image": "../images/a3.png",
+        "title": "Apple",
+        "price": 80,
+        "start_production": 2002,
+        "class": "Mid-size luxury crossover SUV",
+        "description": "May lower cholesterol. Apples contain pectin, a natural fibre found in plants. May protect against diabetes. Apples are low on the glycaemic index (GI) thanks to their fibre content. May prevent obesity. May protect against heart disease."
+    },
+    {
+        "id": 24,
+        "image": "../images/gr3.png",
+        "title": "Grapes",
+        "price": 75,
+        "start_production": 1975,
+        "class": "Supermini",
+        "description": "Helps your immune system. Prevents cancer. Lowers blood pressure. Protects against heart disease.  Reduces high cholesterol. Protects against diabetes. Helps maintain brain health. ..."
+    },
+    {
+        "id": 25,
+        "image": "../images/m4.png",
+        "title": "Mango",
+        "start_production": 2002,
+        "price": 40,
+        "class": "Mid-size luxury crossover SUV",
+        "description": "Packed with nutrients, May help prevent diabetes, High in healthy plant compounds,Contains immune-boosting nutrients, Mango can improve digestive health"
+    },
+    {
+        "id": 26,
+        "image": "../images/p4.png",
+        "title": "Papaya",
+        "start_production": 1975,
+        "price": 60,
+        "class": "Supermini",
+        "description": "Papaya has a strong antioxidant effect, It's high in carotenoids, which can reduce inflammatory markers,  Papaya has anti-cancer properties,  Papaya can improve digestive function."
+    },
+    {
+        "id": 27,
+        "image": "../images/g4.png",
+        "title": "Gwava",
+        "start_production": 1989,
+        "price": 50,
+        "class": "Sports car Roadster",
+        "description": "Guava helps boost your immunity, May reduce the risk of developing Cancer Helps to manage blood sugar levels , Gwava can improve digestive function."
+    },
+    {
+        "id": 28,
+        "image": "../images/ly4.png",
+        "title": "Lychee",
+        "start_production": 1970,
+        "price": 80,
+        "class": "Muscle car(today) and Race car(Past)",
+        "description": "Lychees are a rich source of numerous antioxidant-plant compounds, which help protect against oxidative stress, chronic diseases, cataract, diabetes, heart diseases, and cancers. Copper present that promotes hair growth."
+    },
+    {
+        "id": 29,
+        "image": "../images/pom4.png",
+        "title": "Pomegranate",
+        "start_production": 1994,
+        "price": 90,
+        "class": "Compact",
+        "description": "They are rich in antioxidants. They are a good source of fiber. They provide vitamin C. They may help to improve workouts. They may help with inflammation.  They provide potassium. They may help improve kidney health."
+    },
+    {
+        "id": 30,
+        "image": "../images/b4.png",
+        "title": "Banana",
+        "start_production": 1955,
+        "price": 55,
+        "class": "Full-size Ford",
+        "description": "Bananas are respectable sources of vitamin C. , Manganese in bananas is good for your skin. Potassium in bananas is good for your heart health and blood pressure, aid digestion and help beat gastrointestinal issues."
+    },
+    {
+        "id": 31,
+        "image": "../images/a4.png",
+        "title": "Apple",
+        "price": 80,
+        "start_production": 2002,
+        "class": "Mid-size luxury crossover SUV",
+        "description": "May lower cholesterol. Apples contain pectin, a natural fibre found in plants. May protect against diabetes. Apples are low on the glycaemic index (GI) thanks to their fibre content. May prevent obesity. May protect against heart disease."
+    },
+    {
+        "id": 32,
+        "image": "../images/gr4.png",
+        "title": "Grapes",
+        "price": 75,
+        "start_production": 1975,
+        "class": "Supermini",
+        "description": "Helps your immune system. Prevents cancer. Lowers blood pressure. Protects against heart disease.  Reduces high cholesterol. Protects against diabetes. Helps maintain brain health. ..."
+    },
+    {
+        "id": 33,
+        "image": "../images/m5.png",
+        "title": "Mango",
+        "start_production": 2002,
+        "price": 40,
+        "class": "Mid-size luxury crossover SUV",
+        "description": "Packed with nutrients, May help prevent diabetes, High in healthy plant compounds,Contains immune-boosting nutrients, Mango can improve digestive health"
+    },
+    {
+        "id": 34,
+        "image": "../images/g5.png",
+        "title": "Gwava",
+        "start_production": 1989,
+        "price": 50,
+        "class": "Sports car Roadster",
+        "description": "Guava helps boost your immunity, May reduce the risk of developing Cancer Helps to manage blood sugar levels , Gwava can improve digestive function."
+    },
+    {
+        "id": 35,
+        "image": "../images/p1.png",
+        "title": "Papaya",
+        "start_production": 1975,
+        "price": 60,
+        "class": "Supermini",
+        "description": "Papaya has a strong antioxidant effect, It's high in carotenoids, which can reduce inflammatory markers,  Papaya has anti-cancer properties,  Papaya can improve digestive function."
+    },
+    {
+        "id": 36,
+        "image": "../images/b5.png",
+        "title": "Banana",
+        "start_production": 1955,
+        "price": 55,
+        "class": "Full-size Ford",
+        "description": "Bananas are respectable sources of vitamin C. , Manganese in bananas is good for your skin. Potassium in bananas is good for your heart health and blood pressure, aid digestion and help beat gastrointestinal issues."
+    },
+    {
+        "id": 37,
+        "image": "../images/ly1.png",
+        "title": "Lychee",
+        "start_production": 1970,
+        "price": 80,
+        "class": "Muscle car(today) and Race car(Past)",
+        "description": "Lychees are a rich source of numerous antioxidant-plant compounds, which help protect against oxidative stress, chronic diseases, cataract, diabetes, heart diseases, and cancers. Copper present that promotes hair growth."
+    },
+    {
+        "id": 38,
+        "image": "../images/pom6.png",
+        "title": "Pomegranate",
+        "start_production": 1994,
+        "price": 90,
+        "class": "Compact",
+        "description": "They are rich in antioxidants. They are a good source of fiber. They provide vitamin C. They may help to improve workouts. They may help with inflammation.  They provide potassium. They may help improve kidney health."
+    },
+    {
+        "id": 39,
+        "image": "../images/pom7.png",
+        "title": "Pomegranate",
+        "start_production": 1994,
+        "price": 90,
+        "class": "Compact",
+        "description": "They are rich in antioxidants. They are a good source of fiber. They provide vitamin C. They may help to improve workouts. They may help with inflammation.  They provide potassium. They may help improve kidney health."
+    },
+    {
+        "id": 40,
+        "image": "../images/pom8.png",
+        "title": "Pomegranate",
+        "start_production": 1994,
+        "price": 90,
+        "class": "Compact",
+        "description": "They are rich in antioxidants. They are a good source of fiber. They provide vitamin C. They may help to improve workouts. They may help with inflammation.  They provide potassium. They may help improve kidney health."
+    },
+    {
+        "id": 41,
+        "image": "../images/a6.png",
+        "title": "Apple",
+        "price": 80,
+        "start_production": 2002,
+        "class": "Mid-size luxury crossover SUV",
+        "description": "May lower cholesterol. Apples contain pectin, a natural fibre found in plants. May protect against diabetes. Apples are low on the glycaemic index (GI) thanks to their fibre content. May prevent obesity. May protect against heart disease."
+    },
+    {
+        "id": 42,
+        "image": "../images/pom9.png",
+        "title": "Pomegranate",
+        "start_production": 1994,
+        "price": 90,
+        "class": "Compact",
+        "description": "They are rich in antioxidants. They are a good source of fiber. They provide vitamin C. They may help to improve workouts. They may help with inflammation.  They provide potassium. They may help improve kidney health."
+    },
+    {
+        "id": 43,
+        "image": "../images/a7.png",
+        "title": "Apple",
+        "price": 80,
+        "start_production": 2002,
+        "class": "Mid-size luxury crossover SUV",
+        "description": "May lower cholesterol. Apples contain pectin, a natural fibre found in plants. May protect against diabetes. Apples are low on the glycaemic index (GI) thanks to their fibre content. May prevent obesity. May protect against heart disease."
+    },
+    {
+        "id": 44,
+        "image": "../images/p3.png",
+        "title": "Papaya",
+        "start_production": 1975,
+        "price": 60,
+        "class": "Supermini",
+        "description": "Papaya has a strong antioxidant effect, It's high in carotenoids, which can reduce inflammatory markers,  Papaya has anti-cancer properties,  Papaya can improve digestive function."
+    },
+    {
+        "id": 45,
+        "image": "../images/a8.png",
+        "title": "Apple",
+        "price": 80,
+        "start_production": 2002,
+        "class": "Mid-size luxury crossover SUV",
+        "description": "May lower cholesterol. Apples contain pectin, a natural fibre found in plants. May protect against diabetes. Apples are low on the glycaemic index (GI) thanks to their fibre content. May prevent obesity. May protect against heart disease."
+    }
+]
