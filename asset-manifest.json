@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/devtown-assignment/static/css/main.cb63406d.css",
-    "main.js": "/devtown-assignment/static/js/main.cd6127fb.js",
+    "main.js": "/devtown-assignment/static/js/main.7dd0f296.js",
     "static/js/787.41ce26dd.chunk.js": "/devtown-assignment/static/js/787.41ce26dd.chunk.js",
     "index.html": "/devtown-assignment/index.html",
     "main.cb63406d.css.map": "/devtown-assignment/static/css/main.cb63406d.css.map",
-    "main.cd6127fb.js.map": "/devtown-assignment/static/js/main.cd6127fb.js.map",
+    "main.7dd0f296.js.map": "/devtown-assignment/static/js/main.7dd0f296.js.map",
     "787.41ce26dd.chunk.js.map": "/devtown-assignment/static/js/787.41ce26dd.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.cb63406d.css",
-    "static/js/main.cd6127fb.js"
+    "static/js/main.7dd0f296.js"
   ]
 }
