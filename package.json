@@ -1,6 +1,7 @@
 {
   "name": "devtown-assignment",
   "homepage": "https://anubhavpatel.github.io/devtown-assignment",
+  "homepage": ".",
   "version": "0.1.0",
   "private": true,
   "dependencies": {

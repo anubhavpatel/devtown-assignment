@@ -17,10 +17,10 @@ const Card = ({title,image,year,price,description}) => {
       <div className='content'>
         <div className='c1'>
            <h2>{title}</h2>
-            <div className='year'>{year}Rs</div>
+          
         </div>
         <div className='c2'>
-        <h6>Descriptoin</h6>
+        <h4>Descriptoin</h4>
         <p style={{fontSize:"14px"}}>{description}</p>
         </div>
         <hr />
